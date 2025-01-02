@@ -1,0 +1,78 @@
+# Fichiers générés par Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Fichiers de build
+bin/
+obj/
+[Bb]uild[Ll]og.*
+*.log
+*.tlog
+*.lastbuildstate
+
+# Packages NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Fichiers de publication
+publish/
+*.Publish.xml
+
+# Fichiers de cache
+*.cache
+*.ilk
+*.idb
+*.pdb
+*.opendb
+
+# Configurations locales
+*.dbmdl
+*.jfm
+*.pgc
+*.ide
+
+# Dépendances Node.js si inclus
+node_modules/
+
+# Systèmes d'opérations spécifiques
+*.DS_Store
+Thumbs.db
+
+# Paramètres secrets ou sensibles
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# JetBrains Rider
+.idea/
+
+# Fichiers générés par dotnet et les migrations
+*.log
+*.vspscc
+*.vssscc
+*.pdb
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Conteneurs Docker
+.docker/
+
+# Logs de l'application
+logs/
+*.log
+
+# Fichiers temporaires
+tmp/
+temp/
+
+# Extensions spécifiques ASP.NET
+!appsettings.Production.json
+.env
